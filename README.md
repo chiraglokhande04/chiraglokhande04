@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hey, I’m Chirag Lokhande, a full-stack developer working primarily with the MERN stack and Node.js ecosystem. I build production-ready features, real-time systems, and clean, maintainable codebases. I work end-to-end—from API design to shipping polished UI.<br><br>I’ve completed two 6-month internships where I delivered real client features, improved existing systems, and shipped stable deployments. My work includes building a responsive course-selling platform, crafting admin dashboards, and developing real-time collaborative tools using Yjs + Socket.IO.<br><br>I’ve also built multiple personal and team projects focused on performance, scalability, and real-world usability. Currently, I’m engineering a collaborative code editor with per-character syncing, CRDT-based data models, and cloud storage integration.<br><br>Outside projects, I was a finalist in the Rajasthan Police Hackathon 1.0 and hold leadership roles in multiple tech societies as Technical Lead, Webmaster Lead, and Graphics Executive.<br><br>I’m in my final year of Computer Engineering and actively preparing for software engineering roles, sharpening my DSA skills in JavaScript and exploring advanced backend architecture patterns.<br><br>Tech Stack: JavaScript, TypeScript (basic), React.js, Node.js, Express.js, MongoDB, REST APIs, WebSockets, Yjs, Git/GitHub.
+👋 Hi, I'm Chirag Lokhande
 
+Full-stack MERN developer building clean, scalable apps and real-time systems. I work across the stack—from API architecture to polished UIs—and I’m currently exploring Agentic AI and advanced backend patterns.
+
+**💼 Internships**  
+**Full-Stack Intern | IAimers (6 months):** Built course-platform features, optimized APIs, and contributed to stable production releases.
+
+**Full-Stack Intern | QRapid (6 months):** Developed a React + Tailwind landing page and digital menu UI, improving usability, boosting engagement by 30%, and enhancing performance through close collaboration with product and UX teams.
+
+**🚀 Tech Stack & Skills**
+
+JavaScript, TypeScript (basic), React.js, Node.js, Express.js, MongoDB, REST APIs, WebSockets, Yjs, Git/GitHub, exploring Agentic AI
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chirag_lokhande04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-lokhande) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiraglokhande14@gmail.com) 
@@ -12,13 +22,5 @@ Hey, I’m Chirag Lokhande, a full-stack developer working primarily with the ME
 ![](https://nirzak-streak-stats.vercel.app/?user=chiraglokhande04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraglokhande04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chiraglokhande04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=chiraglokhande04&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
