@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm Chirag Lokhande
 
 Full-stack MERN developer building clean, scalable apps and real-time systems. I work across the stack—from API architecture to polished UIs—and I’m currently exploring Agentic AI and advanced backend patterns.
